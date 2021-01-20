@@ -1,7 +1,7 @@
 # Eclecticism in Software
 
 ## 👨🏻‍💼 Education/Work 👨🏻‍💼
-I've got a bachelor of science in computer science. I'm currently a software engineer at a financial reporting company.
+I've got a bachelor of science in computer science. I'm currently a senior software engineer at a sports startup.
 
 ## 👨🏻‍💻 Technologies 👨🏻‍💻
 I'm focused on Elixir, Kotlin, and TypeScript. I'm tremendously interested in the actor model, functional programming, and concurrency patterns. I specialize in messaging architectures, async/concurrent backends, and RPC. I'm also a hobby game developer (most recently using Haxe).
