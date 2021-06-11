@@ -11,6 +11,6 @@ I keep myself busy by doing things that give me experience, skills, or good stor
 
 ## 📊 Statistics 📊
 
-[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezteb&theme=dark&count_private=true&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezteb&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Noah's Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=nezteb&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
