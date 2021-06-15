@@ -1,5 +1,7 @@
 # Eclecticism in Software
 
+#### [Contact me on Polywork!](https://poly.work/nezteb/contact)
+
 ## 👨🏻‍💼 Education/Work 👨🏻‍💼
 I've got a bachelor of science in computer science. I'm currently a senior software engineer at a consulting startup in the Minneapolis area.
 
