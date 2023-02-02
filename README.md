@@ -1,10 +1,5 @@
 # Eclecticism in Software
 
-## Contact
-#### [Twitter!](https://twitter.com/Nezteb)
-#### [Polywork!](https://www.polywork.com/Nezteb)
-#### [LinkedIn!](https://www.linkedin.com/in/Nezteb/)
-
 ## 👨🏻‍💼 Work/Education 👨🏻‍💼
 I'm currently a software engineering manager (formerly senior software engineer) at a remote-first startup. I live in the Minneapolis area. I've got a bachelor of science in computer science.
 
