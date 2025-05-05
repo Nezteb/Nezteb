@@ -1,7 +1,7 @@
 # Eclecticism in Software
 
 ## 👨🏻‍💼 Work/Education 👨🏻‍💼
-I'm currently a ssenior software engineer at a remote-first startup. I live in the Seattle area. I've got a bachelor of science in computer science.
+I'm currently a senior software engineer at a remote-first startup. I live in the Seattle area. I've got a bachelor of science in computer science.
 
 ## 👨🏻‍💻 Technologies 👨🏻‍💻
 I'm focused on Elixir, Phoenix, and the rest of the Erlang/OTP/BEAM ecosystem. I'm tremendously interested in the actor model, functional programming, and concurrency patterns. I specialize in messaging architectures, async/concurrent backends, and RPC. I'm also a hobby game developer (most recently 2D in-browser games).
