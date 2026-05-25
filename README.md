@@ -1,3 +1,14 @@
+# GitHub and Microsoft suck now 😢
+
+## Find me elsewhere
+
+- [Codeberg.org](https://codeberg.org/Nezteb)
+- [Sourcehut.org / sr.ht](https://sr.ht/~nezteb/)
+- [Bluesky](https://bsky.app/profile/nezteb.net)
+
+<details>
+<summary>Old README</summary>
+
 # Eclecticism in Software
 
 ## 👨🏻‍💼 Work/Education 👨🏻‍💼
@@ -16,3 +27,5 @@ I keep myself busy by doing things that give me experience, skills, or good stor
 [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezteb&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Noah's Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=nezteb&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
